@@ -39,7 +39,7 @@
     },
     "scripts": {
         "post-autoload-dump": "@composer run prepare",
-        "prepare": "@php vendor/bin/testbench package:discover --ansi",
+        "prepare": "@php vendor/bin/testbench package:discover --ansi"
     },
     "config": {
         "sort-packages": true,
