@@ -2,7 +2,7 @@
 
 return [
 
-    'driver' => env('PDF_DRIVER', 'dompdf'), // dompdf|mpdf|html2pdf
+    'driver' => env('PDF_DRIVER', 'mpdf'), // dompdf|mpdf|html2pdf
 
     'drivers' => [
 
