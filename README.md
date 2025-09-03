@@ -1,7 +1,6 @@
 # Driver-based PDF generator for Laravel (mPDF, Dompdf, Html2Pdf) with a unified API.
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/curiousteam/laravel-pdf-drivers.svg?style=flat-square)](https://packagist.org/packages/curiousteam/laravel-pdf-drivers)
-
 [![Total Downloads](https://img.shields.io/packagist/dt/curiousteam/laravel-pdf-drivers.svg?style=flat-square)](https://packagist.org/packages/curiousteam/laravel-pdf-drivers)
 
 ## Installation
