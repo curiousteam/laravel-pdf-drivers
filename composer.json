@@ -55,10 +55,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Curiousteam\\LaravelPdfDrivers\\LaravelPdfDriversServiceProvider"
+                "Curiousteam\\LaravelPdfDrivers\\PdfServiceProvider"
             ],
             "aliases": {
-                "Pdf": "Curiousteam\\LaravelPdfDrivers\\Facades\\LaravelPdfDrivers"
+                "Pdf": "Curiousteam\\LaravelPdfDrivers\\Facades\\Pdf"
             }
         }
     },
